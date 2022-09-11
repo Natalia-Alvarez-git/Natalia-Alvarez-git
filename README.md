@@ -2,7 +2,12 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jSVxBEfdSA2GEUEAw4/giphy.gif" width="250"/>
 </div>
-<div id="badge" align="center">
+<div id="linked in" align="center">
+ <a href="https://www.linkedin.com/in/natalia-alvarez-30b224230/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="41px" width="174px"/>
+  </a>
+</div>
+<div id="coffe badge" align="center">
   <a href="https://www.buymeacoffee.com/Nataliaalvarez" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </div>
 <h1 align="center">WELCOME:)</h1>
