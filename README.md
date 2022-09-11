@@ -1,4 +1,7 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/jSVxBEfdSA2GEUEAw4/giphy.gif" width="100"/>
+</div>
+### Welcome:)
 
 <!--
 **Natalia-Alvarez-git/Natalia-Alvarez-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
