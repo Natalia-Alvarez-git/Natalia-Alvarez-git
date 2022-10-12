@@ -18,7 +18,9 @@ I am a front end developer originally from Colombia 🇨🇴
 - 📜 I was a personal trainer but I fell in love with coding and decided to take the leap of faith.
 - ⏰ In my free time, I rock climb, rollerskate and paint.
 - 🌱 I am currently learning: JavaScript
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/natalia-alvarez-30b224230/))
+- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/natalia-alvarez-30b224230/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25px" width="90px"/>
+
 
 
 
