@@ -25,4 +25,4 @@ I am a softwate engineer originally from Colombia 🇨🇴
 
 
 ### :hammer_and_wrench: Languages and Tools :
-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,git,github,figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,redux,nodejs,postgres,git,github,figma)](https://skillicons.dev)
