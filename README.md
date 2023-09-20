@@ -22,7 +22,7 @@ Before we dive into the code and projects you'll find here, let me share a bit a
 Here, you'll find a mix of projects, including work from my Udemy courses, projects inspired by JavaScript30, and assignments from my Thinkful bootcamp. Feel free to explore, and I hope you discover something inspiring and educational.
 
 ### Get in touch
-I'm always open to connecting with like-minded individuals. If you have questions, ideas, or just want to chat, don't hesitate to reach out here on GitHub or find me on [linkedIn](www.linkedin.com/in/natali-a-lvarez)!
+I'm always open to connecting with like-minded individuals. If you have questions, ideas, or just want to chat, don't hesitate to reach out here on GitHub or find me on [LinkedIn](www.linkedin.com/in/natali-a-lvarez)!
 
 ### :hammer_and_wrench: Languages and Tools :
   [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,redux,nodejs,postgres,git,github,figma)](https://skillicons.dev)
