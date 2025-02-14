@@ -25,6 +25,6 @@ Here, you'll find a mix of projects, including work from my Udemy courses, proje
 I'm always open to connecting with like-minded individuals. If you have questions, ideas, or just want to chat, don't hesitate to reach out here on GitHub or find me on [LinkedIn](www.linkedin.com/in/natali-a-lvarez)!
 
 ### :hammer_and_wrench: Languages and Tools :
-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,python,redux,nodejs,sequelize,postgres,git,github,figma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,python,typescript,redux,nodejs,sequelize,postgres,git,github,figma)](https://skillicons.dev)
 
 Thanks for stopping by, and let's embark on a journey of creativity and development together!
